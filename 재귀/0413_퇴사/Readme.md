@@ -28,6 +28,8 @@ print(comb(0, selected, calendar, 0, N, 0, []))
 
 <br>
 아래는 내가 푼건 아니지만 좋은 코드!
+
+
 ```
 n = int(input())
 plan = []
